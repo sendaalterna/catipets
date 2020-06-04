@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "petsm4",
       "title": "PetsM4",
@@ -44,7 +44,7 @@
         "title": "CATI Pets",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<style type=\"text/css\">.redes-flotantes {\nposition: fixed;\nright: 8px;\ntop: 85%;\nz-index: 20;\n}\n.redes-flotantes img {\nfloat: right; clear: right;\n margin: 5px;\n-moz-transform: scale(.8) ;\n-webkit-transform: scale(.8) ;\n-o-transform: scale(.8) ;\n-ms-transform: scale(.8) ;\ntransform: scale(.8) ;\n-webkit-transition: all .2s ease-in-out;\n-moz-transition: all .2s ease-in-out;\n-o-transition: all .2s ease-in-out;\ntransition: all .2s ease-in-out;\n}\n.redes-flotantes img:hover {\n-moz-transform: scale(1.1) rotate(6deg);\n-webkit-transform: scale(1.1) rotate(6deg);\n-o-transform: scale(1.1) rotate(6deg);\n-ms-transform: scale(1.1) rotate(6deg);\ntransform: scale(1.1) rotate(6deg);\n}</style>\n<div class='redes-flotantes'>\n\n\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n<a href=\"http://wa.me/51917691617\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\" target=\"_blank\"><img border=\"0\" data-original-height=\"59\" data-original-width=\"59\" src=\"https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png\" /></a></div>\n",
         "html_before": ""
       },
       "components": [
@@ -1408,7 +1408,7 @@
         "title": "Comida",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<style type=\"text/css\">.redes-flotantes {\nposition: fixed;\nright: 8px;\ntop: 85%;\nz-index: 20;\n}\n.redes-flotantes img {\nfloat: right; clear: right;\n margin: 5px;\n-moz-transform: scale(.8) ;\n-webkit-transform: scale(.8) ;\n-o-transform: scale(.8) ;\n-ms-transform: scale(.8) ;\ntransform: scale(.8) ;\n-webkit-transition: all .2s ease-in-out;\n-moz-transition: all .2s ease-in-out;\n-o-transition: all .2s ease-in-out;\ntransition: all .2s ease-in-out;\n}\n.redes-flotantes img:hover {\n-moz-transform: scale(1.1) rotate(6deg);\n-webkit-transform: scale(1.1) rotate(6deg);\n-o-transform: scale(1.1) rotate(6deg);\n-ms-transform: scale(1.1) rotate(6deg);\ntransform: scale(1.1) rotate(6deg);\n}</style>\n<div class='redes-flotantes'>\n\n\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n<a href=\"http://wa.me/51917691617\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\" target=\"_blank\"><img border=\"0\" data-original-height=\"59\" data-original-width=\"59\" src=\"https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png\" /></a></div>\n",
         "html_before": "",
         "order": 1
       },
@@ -3397,7 +3397,7 @@
         "title": "Juguetes",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<style type=\"text/css\">.redes-flotantes {\nposition: fixed;\nright: 8px;\ntop: 85%;\nz-index: 20;\n}\n.redes-flotantes img {\nfloat: right; clear: right;\n margin: 5px;\n-moz-transform: scale(.8) ;\n-webkit-transform: scale(.8) ;\n-o-transform: scale(.8) ;\n-ms-transform: scale(.8) ;\ntransform: scale(.8) ;\n-webkit-transition: all .2s ease-in-out;\n-moz-transition: all .2s ease-in-out;\n-o-transition: all .2s ease-in-out;\ntransition: all .2s ease-in-out;\n}\n.redes-flotantes img:hover {\n-moz-transform: scale(1.1) rotate(6deg);\n-webkit-transform: scale(1.1) rotate(6deg);\n-o-transform: scale(1.1) rotate(6deg);\n-ms-transform: scale(1.1) rotate(6deg);\ntransform: scale(1.1) rotate(6deg);\n}</style>\n<div class='redes-flotantes'>\n\n\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: left;\">\n<a href=\"http://wa.me/51917691617\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\" target=\"_blank\"><img border=\"0\" data-original-height=\"59\" data-original-width=\"59\" src=\"https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png\" /></a></div>\n",
         "html_before": "",
         "order": 2
       },
